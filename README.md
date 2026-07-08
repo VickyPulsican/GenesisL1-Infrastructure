@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="images/genesisl1-logo.png" width="140" alt="GenesisL1 Logo">
-</p>
 
-<h1 align="center">GenesisL1 Infrastructure</h1>
-
-<p align="center">
-Public infrastructure services operated by <b>GenesisL1 Validator – Vicky_Pulsican</b>
-</p>
-
-<p align="center">
-RPC • REST API • EVM JSON-RPC • WSS • Snapshot (Coming Soon)
-</p>
 
 <p align="center">
   <img src="images/genesisl1-logo.png" width="140" alt="GenesisL1 Logo">
