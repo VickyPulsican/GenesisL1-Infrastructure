@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="images/genesisl1-logo.png" width="140" alt="GenesisL1 Logo">
+  <img src="images/genesisl1-logo.png" width="220" alt="GenesisL1 Logo">
 </p>
 
 <h1 align="center">GenesisL1 Infrastructure</h1>
