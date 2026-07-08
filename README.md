@@ -95,7 +95,7 @@ wscat -c wss://wss.gl1infra.online \
 **Status**
 
 ```text
-🚧 Coming Soon
+🚧 Coming very Soon
 ```
 
 A public GenesisL1 snapshot service will be added once it has been fully tested and verified for production use.
